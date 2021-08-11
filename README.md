@@ -1,2 +1,2 @@
-# crystal_gallery_ha
-크리스탈 갤러리 화요일 TLC 연진
+# Crystal-Gallery
+TLC - 크리스탈갤러리
